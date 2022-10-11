@@ -1,7 +1,9 @@
 
-## Lab 5-1
+## Lab 5-2
 
-### Print the even numbers from 10 to 20
+### Ask the user one integer value and print it until the input is -1
+
+> > use while-loop
 
 
 
